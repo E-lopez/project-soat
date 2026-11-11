@@ -1,0 +1,5 @@
+SYNTHESIS_MODEL_ID='us.anthropic.claude-sonnet-4-6'
+JUDGE_MODEL_ID='us.anthropic.claude-sonnet-4-6'
+EMBEDDING_MODEL_ID='amazon.titan-embed-text-v2:0'
+GUARDRAIL_PROHIBITED_MODEL_ID='meta.llama3-8b-instruct-v1:0'
+DOCUMENT_EXTRACTION_MODEL_ID = 'us.anthropic.claude-sonnet-4-6'

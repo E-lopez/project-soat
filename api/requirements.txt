@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.13.4
+python-dotenv==1.2.2
+boto3==1.28.0
+botocore==1.31.85
+SQLAlchemy==2.0.28
+sqlmodel==0.0.30
+asyncpg==0.29.0
+pgvector==0.2.5
+httpx==0.28.1
+requests==2.34.2
+pymupdf==1.28.0
+pymupdf-layout==1.28.0
+pymupdf4llm==1.28.0
+langchain-openai
+

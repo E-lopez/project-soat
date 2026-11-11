@@ -1,0 +1,177 @@
+{
+  "message": "Documents parsed successfully.",
+  "size": 3,
+  "result": {
+    "document_type": "Informe Policial de Accidentes de Tránsito",
+    "vehicle_data": [
+      {
+        "PLACA": "FYQ689",
+        "ASEGURADORA": "MAPFRE",
+        "MARCA": "TOYOTA",
+        "MODELO": "2019"
+      },
+      {
+        "PLACA": "GZZ711",
+        "ASEGURADORA": "Sol Dario",
+        "MARCA": "CHEVROLET",
+        "MODELO": "2020"
+      }
+    ],
+    "victim_list": [
+      {
+        "Primer nombre": "ROMULO",
+        "Segundo nombre": null,
+        "Primer apellido": "ESPINOZA",
+        "Segundo apellido": "GARCIA",
+        "Teléfono": "302-5709506",
+        "Lugar de nacimiento Pais": "VENEZUELA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnostico Trauma cráneo encefálico moderado y politraumatismo.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "GUSTAVO",
+        "Segundo nombre": "ANDRES",
+        "Primer apellido": "RODRIGUEZ",
+        "Segundo apellido": "GOMEZ",
+        "Teléfono": null,
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnóstico de politraumatismo.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "JOSE",
+        "Segundo nombre": "WILLIAM",
+        "Primer apellido": "ORTIZ",
+        "Segundo apellido": "LOZANO",
+        "Teléfono": "3205304345",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnostico de herida en hueso propio de la nariz.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "MARIA",
+        "Segundo nombre": "FERNANDA",
+        "Primer apellido": "MORENO",
+        "Segundo apellido": "MORENO",
+        "Teléfono": "3045419752",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionado con diagnostico cefalea post-trauma y trauma en tejidos blandos.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "DEIVI",
+        "Segundo nombre": "SEBASTIAN",
+        "Primer apellido": "RAMIREZ",
+        "Segundo apellido": "TORRES",
+        "Teléfono": "3212261066",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnostico herida frontal, politraumatismo en miembros inferiores y superiores.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "ANA",
+        "Segundo nombre": "MARIA",
+        "Primer apellido": "AGUIRRE",
+        "Segundo apellido": "HERRERA",
+        "Teléfono": "3114441096",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionado con diagnostico trauma huesos propios de la nariz, trauma dorso lumbar.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "SANDRA",
+        "Segundo nombre": "MARCELA",
+        "Primer apellido": "FAJARDO",
+        "Segundo apellido": "VALERO",
+        "Teléfono": "3132435633",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionado con diagnostico politraumatismo.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "ANDREA",
+        "Segundo nombre": null,
+        "Primer apellido": "HERNANDEZ",
+        "Segundo apellido": "TORRES",
+        "Teléfono": "3102215193",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionado con diagnostico trauma cráneo encefálico con pérdida de conciencia, trauma dorso lumbar, fractura cadera.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "NIDIA",
+        "Segundo nombre": "HASBLEIDY",
+        "Primer apellido": "CASTRO",
+        "Segundo apellido": "BARBOSA",
+        "Teléfono": "314-7976398",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionado con diagnostico de cefalea post-trauma y trauma en tejidos blandos.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "LEONARDO",
+        "Segundo nombre": "LUIS",
+        "Primer apellido": "MEJIA",
+        "Segundo apellido": "CAMARGO",
+        "Teléfono": "301-5278054",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado de gravedad con código de reanimación.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "DANIEL",
+        "Segundo nombre": "RICARDO",
+        "Primer apellido": "AREVALO",
+        "Segundo apellido": "PRADA",
+        "Teléfono": "3202394246",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnóstico de herida frontal, trauma en tejidos menores y trauma bilateral en miembros inferiores.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "DANIEL",
+        "Segundo nombre": "FELIPE",
+        "Primer apellido": "UYABAN",
+        "Segundo apellido": "DURAN",
+        "Teléfono": "301-3791908",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnostico de trauma en hombro derecho y tórax.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "JOSE LUIS",
+        "Segundo nombre": "CARLOS",
+        "Primer apellido": "IBARRA",
+        "Segundo apellido": "RAMIREZ",
+        "Teléfono": "3104820385",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "M",
+        "Observaciones": "Lesionado con diagnóstico de contusión y deformidad en huesos de la mano izquierda.",
+        "Placa": "GZZ 711"
+      },
+      {
+        "Primer nombre": "LYDA",
+        "Segundo nombre": "ISABEL",
+        "Primer apellido": "CIFUENTES",
+        "Segundo apellido": "GUTIERREZ",
+        "Teléfono": "320-3915163",
+        "Lugar de nacimiento Pais": "COLOMBIA",
+        "Genero": "F",
+        "Observaciones": "Lesionada con diagnóstico de trauma craneoencefálico moderado y trauma cerrado de abdomen.",
+        "Placa": "GZZ 711"
+      }
+    ]
+  }
+}
